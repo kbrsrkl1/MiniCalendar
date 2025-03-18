@@ -1,1 +1,2 @@
 # MiniCalendar
+This project involves creating a mini calendar that displays the current date of the computer on which it is viewed. This information is dynamically retrieved using JavaScript, ensuring that the page always displays the current date. For example, if viewed in December 2021, the page will display December 2nd, which is a Thursday. By creating this mini calendar, you will learn how to retrieve and display current date information using JavaScript.
